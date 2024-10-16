@@ -1,6 +1,3 @@
-### 🐍 Snake Animation
-![Snake animation](https://github.com/marcosbristot/marcosbristot/blob/output/github-contribution-grid-snake.svg)
-
 # Olá, eu sou o Marcos! 👨‍💻
 
 ### 🛠️ Sobre Mim
@@ -19,8 +16,6 @@ If you’re looking for someone with a lot of energy, a willingness to learn, an
 ![Appium](https://img.shields.io/badge/Appium-%2357A143.svg?&style=for-the-badge&logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23476C94.svg?&style=for-the-badge&logo=sql&logoColor=white)
-
-![Banner](https://user-images.githubusercontent.com/marcosbristot/seubanner.gif)
 
 ### 📈 Minhas Estatísticas no GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=marcosbristot&show_icons=true&theme=radical)
